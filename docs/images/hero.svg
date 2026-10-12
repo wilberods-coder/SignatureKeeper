@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="480" viewBox="0 0 1400 480">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111f20"/><stop offset="1" stop-color="#07130f"/></linearGradient>
+    <linearGradient id="tile" x1="0" y1="1" x2="0" y2="0"><stop stop-color="#1a9654"/><stop offset="1" stop-color="#42db7d"/></linearGradient>
+  </defs>
+  <rect width="1400" height="480" rx="32" fill="url(#bg)"/>
+  <circle cx="1240" cy="15" r="240" fill="#7aefad" opacity=".04"/>
+  <circle cx="1240" cy="15" r="155" fill="none" stroke="#7aefad" opacity=".10"/>
+  <g transform="translate(90 124)">
+    <rect width="224" height="224" rx="50" fill="url(#tile)"/>
+    <path d="M54 114 L95 155 L171 70" fill="none" stroke="#fff" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="370" y="145" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="18" font-weight="600" letter-spacing="5" fill="#9cedb8">MACOS → IPHONE</text>
+  <text x="365" y="229" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="72" font-weight="750" fill="#f3faf6">SignatureKeeper</text>
+  <text x="370" y="280" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="27" fill="#b8cbc0">Подпись на новую неделю. В пару кликов.</text>
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="17" fill="#d5eadc">
+    <rect x="370" y="320" width="154" height="42" rx="21" fill="#213a2a"/><text x="397" y="348">Xcode-проекты</text>
+    <rect x="539" y="320" width="83" height="42" rx="21" fill="#213a2a"/><text x="564" y="348">IPA</text>
+    <rect x="638" y="320" width="193" height="42" rx="21" fill="#213a2a"/><text x="665" y="348">Автообновление</text>
+  </g>
+</svg>

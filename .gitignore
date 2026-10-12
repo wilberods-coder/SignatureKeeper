@@ -1,0 +1,8 @@
+.build/
+dist/
+.DS_Store
+Defaults.json
+*.mobileprovision
+*.p12
+*.ipa
+*.xcarchive/

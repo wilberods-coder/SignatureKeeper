@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+  <rect width="1200" height="220" rx="24" fill="#101b18"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" text-anchor="middle">
+    <g fill="#1d3026" stroke="#355943"><rect x="32" y="45" width="250" height="130" rx="20"/><rect x="325" y="45" width="250" height="130" rx="20"/><rect x="618" y="45" width="250" height="130" rx="20"/><rect x="911" y="45" width="257" height="130" rx="20"/></g>
+    <g fill="#94eaae" font-size="14" font-weight="700"><text x="157" y="79">01 / ИСТОЧНИК</text><text x="450" y="79">02 / XCODE</text><text x="743" y="79">03 / ПОДПИСЬ</text><text x="1039" y="79">04 / IPHONE</text></g>
+    <g fill="#f1faf3" font-size="23" font-weight="650"><text x="157" y="116">Проект или IPA</text><text x="450" y="116">Свежий профиль</text><text x="743" y="116">Проверка срока</text><text x="1039" y="116">Установка</text></g>
+    <g fill="#aec4b6" font-size="14"><text x="157" y="144">Ваш файл на Mac</text><text x="450" y="144">Ваш Apple Account</text><text x="743" y="144">Дата из профиля Apple</text><text x="1039" y="144">Готово к запуску</text></g>
+    <g fill="#94eaae" font-size="28"><text x="303" y="120">→</text><text x="596" y="120">→</text><text x="889" y="120">→</text></g>
+  </g>
+</svg>
